@@ -12,5 +12,5 @@ Please use the code as a guideline to help getting started. If you have question
 ## How To Use This Tutorial
 
 1. Sign up for a Developer Distributor Account at [https://developers.bingewave.com/](https://developers.bingewave.com/)
-2. Create an instant event as instructed to in the [tutorial](https://medium.com/bingewave/getting-started-on-creating-a-webrtc-video-chat-for-web-apps-a3e9aa2c954f) and copy  and paste the contents in the 'embed_video_chat' take
+2. Create an instant event as instructed to in the [tutorial](https://medium.com/bingewave/getting-started-on-creating-a-webrtc-video-chat-for-web-apps-a3e9aa2c954f) and copy  and paste the contents in the 'embed_video_chat' into the script tag in the html
 3. Open in your browser and you're done!
