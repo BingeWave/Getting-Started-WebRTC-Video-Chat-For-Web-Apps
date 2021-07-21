@@ -1,0 +1,23 @@
+{
+  "name": "gettiing-started-webrtc-video-chat-for-web-apps",
+  "version": "0.0.1",
+  "description": "BingeWave's basic getting started application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BingeWave/Gettiing-Started-WebRTC-Video-Chat-For-Web-Apps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BingeWave/Gettiing-Started-WebRTC-Video-Chat-For-Web-Apps/issues"
+  },
+  "homepage": "https://github.com/BingeWave/Gettiing-Started-WebRTC-Video-Chat-For-Web-Apps#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security"
+  }
+}
